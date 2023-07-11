@@ -66,7 +66,7 @@ describe("Login Page Test Cases", () => {
 
     cy.url().should(
       "eq",
-      "https://taufanfadhilah.github.io/react-gallery/dashboard"
+      "https://aplikasipenjualan/"
     );
   });
 });
